@@ -1,0 +1,39 @@
+
+.red {
+    color:red;
+}
+
+.italic{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-size: 1em
+}
+
+.background{
+    background: black;
+    color:lightblue;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+.big{
+    font-size: 2em;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.ok{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.huge{
+    font-size: 4em;
+}
+
+.lol{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.15em;
+    
+}
+
+.y{
+    font-family: Arial, Helvetica, sans-serif;
+}
